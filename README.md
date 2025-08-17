@@ -8,7 +8,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharva025&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva025&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
